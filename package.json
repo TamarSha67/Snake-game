@@ -1,0 +1,23 @@
+{
+  "name": "beitbina2024",
+  "version": "1.0.0",
+  "description": "our project",
+  "main": "main.js",
+  "scripts": {
+    "start":"electron .",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dteachapp/beitbina2024.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dteachapp/beitbina2024/issues"
+  },
+  "homepage": "https://github.com/dteachapp/beitbina2024#readme",
+  "devDependencies": {
+    "electron": "^28.1.4"
+  }
+}
